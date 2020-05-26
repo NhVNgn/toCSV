@@ -1,7 +1,4 @@
-// Student: Nhan-Vy Nguyen
-// SFU ID: 301384945
-// PeerFeedbackProcessor.java
-// main class for search and deserialize json files
+
 package ca.cmpt213.as2;
 
 import com.google.gson.*;
